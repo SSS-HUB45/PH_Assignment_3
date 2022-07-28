@@ -1,0 +1,9 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+ul img {
+  opacity: 0.5;
+}
+ul {
+  background-color: black;
+}
